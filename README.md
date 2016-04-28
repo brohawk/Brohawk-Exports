@@ -32,5 +32,6 @@ Chain Stabilizer                   2 Nos
 
 	Spring Cultivator
 Suitable for use in stone and root obstructed soil. It is designed for toughest operations. Used for loosening and aerating soil to a depth of nine inches. Prepares seed beds quickly and economically. When one tine strikes a hidden object, the other continues to work at the correct depth.Spring loaded assemblies derive their strength from heavy-duty angles, which once fixed to the immensely strong main frame cannot move or strain out of position.
+
 	Disc Plough
 The disc plough is designed to work in all types of soil for basic functions such as soil breaking, soil raising, soil turning and soil mixing .It is used to open the new fields and to process the stony areas. It can be used easily at rocky and rooted areas. It is especially useful in hard and dry trashy land conditions and in soils where scouring is a major problem. Inconformity with the soil conditions it is being produced with 2-3 and 4 bottoms version with an option for extra kit for converting it to extra-bottom plough. It is directly mounted to the tractors. Extra heavy-duty pipe frame has high clearance allowing the plough to operate under heavy crop residue.
