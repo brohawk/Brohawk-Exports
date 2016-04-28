@@ -3,6 +3,7 @@ Agriculture Machinery
 Brohawk Exports 
 
 Brohawk Exports is an Indian Agricultural machinery manufacturing company Headquartered in the city Mohali, Punjab, India. It is one of the main agriculture machinery parts producer and exporter in India having wide range of production lines. The main production lines are:
+
 	Disc Harrow Blade
 Brohawk is currently manufacturing and exporting harrow discs and plough discs in Carbon Steel and Boron Steel with scores of sizes ranging from 16 inches to 28 inches in diameter and 2.5 mm to 8mm in thickness. To manufacture Harrow disc we use Carbon Steel EN 45 i.e equivalent to SAE 1070 grade and Boron Steel EN 10083 (30 MN B5) grade material. We maintain hardness of the Harrow disc from 38 to 42 HRC in Carbon Steel and 48 to 52 HRC in boron steel. We manufacture Harrow disc with centre hole square, round, hex, Octave or as per the drawing and specification of the buyers. The varieties of Harrow disc blades that we manufacture are:
 
@@ -11,6 +12,7 @@ Repeated use of land for cultivation causes upper layer of soil to lose its nutr
 
 NOTCHED DISC :
 A notched disc (also known as cut-way or scallop disc) is used to make soil finer. It crushes the soil making it smooth and ready for cultivation.
+
 	Laminated Tire
 Laminated tires are manufactured for the ultimate in wear capability. In some cases, our laminated tires can outlast the equipment on which they are installed. These tires are manufactured by a special manufacturing process using hundreds of tons of pressure to create a high quality, long lasting tire to withstand some of the worst, most demanding environments. Sidewalls of used tires are specially cut to sizes .These recycled sidewall pieces are then formed into tires that provide all the benefits of a solid tire while at the same time providing a toughness necessary for the most demanding industrial Hog, Woods & Others. environments. Our laminated tires are manufactured to fit most industrial and commercial Rotary Cutters i.e. John Deere, Bush The available size are:
 
@@ -27,6 +29,7 @@ Adjustable Stabilizer           1 No.
 Rod With Spacer                  1 No.
 Lynch Pin With Chain        2 Nos.
 Chain Stabilizer                   2 Nos
+
 	Spring Cultivator
 Suitable for use in stone and root obstructed soil. It is designed for toughest operations. Used for loosening and aerating soil to a depth of nine inches. Prepares seed beds quickly and economically. When one tine strikes a hidden object, the other continues to work at the correct depth.Spring loaded assemblies derive their strength from heavy-duty angles, which once fixed to the immensely strong main frame cannot move or strain out of position.
 	Disc Plough
